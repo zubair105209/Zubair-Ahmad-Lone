@@ -1,0 +1,31 @@
+** start of undefined **
+
+<h1 id='title'>Title</h1>
+<p id='description'>Description</p>
+<form id='survey-form'>
+  <label id='name-label'>Enter Name<input id='name' type='text' required placeholder='name' /></label>
+  <label id='email-label'>Enter Email<input id='email' type='email' required placeholder='email' /></label>
+  <label id='number-label'>Choose a Number<input id='number' type='number' min='0' max='10' placeholder='number' /></label>
+  <select id='dropdown'>
+  <option>How are you?</option>
+  <option>Fine</option>
+  <option>Great</option>
+  </select>
+  <input type='radio' name='radio' value='radio'/>
+  <input type='radio' name='radio' value='radio'/>
+  <input type='checkbox' value='checkbox'/>
+  <input type='checkbox' value='checkbox'/>
+  <input type='checkbox' value='checkbox'/>
+  <textarea></textarea>
+  <input type='submit' id='submit' />
+</form>
+
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+
